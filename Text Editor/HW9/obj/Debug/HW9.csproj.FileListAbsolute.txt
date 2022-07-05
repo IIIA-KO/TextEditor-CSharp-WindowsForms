@@ -1,0 +1,11 @@
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\9\HW9\HW9\bin\Debug\HW9.exe.config
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\9\HW9\HW9\bin\Debug\HW9.exe
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\9\HW9\HW9\bin\Debug\HW9.pdb
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\9\HW9\HW9\obj\Debug\HW9.csproj.AssemblyReference.cache
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\9\HW9\HW9\obj\Debug\HW9.csproj.SuggestedBindingRedirects.cache
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\9\HW9\HW9\obj\Debug\HW9.Form1.resources
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\9\HW9\HW9\obj\Debug\HW9.Properties.Resources.resources
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\9\HW9\HW9\obj\Debug\HW9.csproj.GenerateResource.cache
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\9\HW9\HW9\obj\Debug\HW9.csproj.CoreCompileInputs.cache
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\9\HW9\HW9\obj\Debug\HW9.exe
+D:\ІЛЛЯ\ШАГ\2021-22\Windows Forms\HW\9\HW9\HW9\obj\Debug\HW9.pdb
