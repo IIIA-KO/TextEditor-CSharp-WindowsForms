@@ -11,9 +11,7 @@ using System.IO;
 
 namespace HW9
 {
-    //Якщо чесно, я не дуже в'їхав як зробити так, щоб друкувало PDF'ом у файл, хоча в мене є код з пари.
-    //Зато просто надрукувати на папір виходить)
-
+    
     public partial class Form1 : Form
     {
         private string SelectedTabTextBox { get; set; }
